@@ -1,0 +1,30 @@
+Introduction to Kubeflow: Fundamentals Training and Certification Prep - Jan 27, 2022
+Thursday, January 27⋅11:00am – 12:30pm
+
+
+https://zoom.us/w/91693834271?tk=WEFCBj5VlN3ZiLpmsEks573Ud-pEaSqth7GqscDnCoQ.DQMAAAAVWWDgHxZaVktKTV9zOFJ4T2VQd09WelBDRGR3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_9_qZu9M5Tu6V8jplO9wQhQ
+Join from a PC, Mac, iPad, iPhone or Android device:
+    Please click this URL to join. https://zoom.us/w/91693834271?tk=WEFCBj5VlN3ZiLpmsEks573Ud-pEaSqth7GqscDnCoQ.DQMAAAAVWWDgHxZaVktKTV9zOFJ4T2VQd09WelBDRGR3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_9_qZu9M5Tu6V8jplO9wQhQ
+	Description: We’ll be covering the following topics in this course:
+
+* Architecture
+* Workflows
+* Components
+* Tools and Add-ons
+* Distributions
+* Installations
+* Community
+* Course Review
+
+
+Live webcast: Non-Invasive Testing with UI Automation
+Thursday, January 27⋅1:00 – 1:28pm
+BrightTALK
+Click here to attend: https://www.brighttalk.com/webcast/16975/527206?utm_campaign=user_webcast_register&utm_medium=calendar&utm_source=brighttalk-transact
+
+Presenter: Lindsey Rominsky, Solutions Engineer; Jaspar Casey, Product Marketing Manager
+
+Software teams in the defense and aerospace sectors are increasingly relying on UI automation to deliver quality software on time. UI automation allows testers to rigorously test applications in a non-invasive manner, a key requirement when working with sensitive — and often top secret — systems. 
+Join our resident expert, Lindsey Rominsky, as we demonstrate the transformative power of UI automation. Lindsey has spent the last 15 years as a software engineer in the defense industry, working for various Department of Defense contractors. She brings her unique experience as an Eggplant user of 6 years to the conve...
+
+
